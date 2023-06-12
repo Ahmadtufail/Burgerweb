@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'dess';
+    src: url(font/Aachen std Medium.tof);
+}
+
+
+
+body{
+    background-color:rgb(243, 170, 33);
+    margin: 0px;
+    padding: 0px;
+}
+
+.page2{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.page3{
+    border-bottom-left-radius: 1000px;
+    
+}
+.ppg{
+    position: relative;
+    top: 35%;
+}
+.pg{
+    position: relative;
+    top: 80%;
+    margin-bottom: 3px;
+} 
+.bor{
+    border: 5px solid blue;
+    width: 50%;
+    
+}
+.page5{
+    position: relative;
+    top: 20%;
+    left: 25%;
+}
+.page4{
+    background-image: url(images/sec5.png);
+}
